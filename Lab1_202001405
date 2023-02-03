@@ -14,12 +14,11 @@ A.1. Functional Requirements:
 
     Non-Functional Requirements:
     1) Web Application user interface
-    2) Sending an verification email within 10s
-    3) Notify user regularly about the updated list of books
-    4) System should perform uniformly even if website trafic is high
-    5) Confidential information should be secured properly
-    6) System should be maintained properly for both user and admin side
-    7) Each request should be processed within a specific period of time
+    2) Notify user regularly about the updated list of books
+    3) System should perform uniformly even if website trafic is high
+    4) Confidential information should be secured properly
+    5) System should be maintained properly for both user and admin side
+    6) Each request should be processed within a specific period of time
 
 Q.2. Identify scope, features and non-functional aspects of the given problem.
 A.2. Scope:
