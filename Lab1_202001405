@@ -1,0 +1,37 @@
+Name: Kenil Vaghasiya
+Student ID: 202001405
+Lab 1: Identifying Functional and Non-Functional Requirements
+
+Q.1. Identify FRs and NFRs:
+A.1. Functional Requirements: 
+    1) A Verification email is sent to user whenever he/she registers for the first time on some software system.
+    2) Authentication of user whenever user wants to issue or return a book.
+    3) No registration needed until issue or return request.
+    4) Allow author to give administrative privilegdes to a user.
+    5) Allow user to search for available books and appropriate dates for it.
+    6) Allow admin to control total account of books, users, and user taken books.
+    7) Instition LAN connection should be there for accessing the site.
+
+    Non-Functional Requirements:
+    1) Web Application user interface
+    2) Sending an verification email within 10s
+    3) Notify user regularly about the updated list of books
+    4) System should perform uniformly even if website trafic is high
+    5) Confidential information should be secured properly
+    6) System should be maintained properly for both user and admin side
+    7) Each request should be processed within a specific period of time
+
+Q.2. Identify scope, features and non-functional aspects of the given problem.
+A.2. Scope:
+    - As given in the problem statement, there are a lot of people who suffers with suffers from disabling hearing loss. This mobile application help them in critical 
+    situations. The market scope is even very high.
+    
+    Features:
+    - The mobile application will be easily accessible for the user.
+    - The application will use artificial intelligence and perform accordingly.
+    - The application doesn't require user to make any input. It will help user to recognize important sounds with low latency.
+
+    Non-Functional Aspects:
+    - Speech recognition and discrimination should be effective.
+    - User should be able to control the application whenever needed
+    - Avalaibile at any time and should be reliable
